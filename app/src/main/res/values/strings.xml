@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Assignment1Part3</string>
+    <string name="inputHint">Enter a string or a number.</string>
+</resources>
